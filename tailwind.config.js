@@ -10,9 +10,13 @@ module.exports = {
         verylightblue: "#f6f9fc", 
         darkblue: "#0b2540"
       },
+      fontFamily: {
+        sans: ["questrial", "system-ui", "-apple-system"],
+      },
     },
 
   },
   plugins: [],
 }
+
 
