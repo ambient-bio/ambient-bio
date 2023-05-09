@@ -8,10 +8,11 @@ module.exports = {
     extend: {
       colors: {
         verylightblue: "#f6f9fc", 
-        darkblue: "#0b2540"
+        darkblue: "#0b2540",
+        // darkblue2: "#03274d",
       },
       fontFamily: {
-        sans: ["questrial", "system-ui", "-apple-system"],
+        // sans: ['"IBM Plex Sans"', "system-ui", "-apple-system"],
       },
     },
 
