@@ -6,7 +6,7 @@ export default function Home() {
   return  (
   <div className="flex min-h-screen max-w-full bg-verylightblue">
   <div className="w-1/12 lg:w-2/12"></div>
-    <div className="w-10/12 md:w-6/12 lg:w-3/12 pt-32 lg:pt-36 text-darkblue font-sans">
+    <div className="w-10/12 md:w-6/12 xl:w-5/12 pt-32 lg:pt-36 text-darkblue font-sans">
       <GradientCanvas id="canvas"/>
       <Logo className="absolute w-[300px] md:w-[400px] lg:w-[600px] md:pb-2 opacity-100" />
       <Logo className="w-[300px] md:w-[400px] lg:w-[600px] md:pb-2" />
