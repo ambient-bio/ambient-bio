@@ -9,7 +9,6 @@
  */
 module.exports = {
   plugins: [
-    `gatsby-plugin-netlify`,
     'gatsby-plugin-postcss',
     {
       resolve: "gatsby-plugin-react-svg",

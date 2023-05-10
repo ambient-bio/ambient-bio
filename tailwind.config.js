@@ -9,10 +9,9 @@ module.exports = {
       colors: {
         verylightblue: "#f6f9fc", 
         darkblue: "#0b2540",
-        // darkblue2: "#03274d",
       },
       fontFamily: {
-        // sans: ['"IBM Plex Sans"', "system-ui", "-apple-system"],
+        sans: ['Inter', "system-ui", "-apple-system"],
       },
     },
 

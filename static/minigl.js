@@ -485,11 +485,5 @@ function normalizeColor(hexCode) {
       }
     }
 
-var canvas1 = new Gradient(); 
-canvas1.initGradient("#canvas1");
-
-var canvas2 = new Gradient(); 
-canvas2.initGradient("#canvas2");
-
-var canvas3 = new Gradient(); 
-canvas3.initGradient("#canvas3");
+var canvas = new Gradient(); 
+canvas.initGradient("#canvas");
