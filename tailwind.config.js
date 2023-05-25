@@ -8,7 +8,9 @@ module.exports = {
     extend: {
       colors: {
         verylightblue: "#f6f9fc", 
+        blue: "#0249e5",
         darkblue: "#0b2540",
+        green: "#13bcbc", 
       },
       fontFamily: {
         sans: ['Inter', "system-ui", "-apple-system"],
