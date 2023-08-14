@@ -5,6 +5,7 @@ import Brands from "@/components/Brands";
 import ScrollUp from "@/components/Common/ScrollUp";
 import Contact from "@/components/Contact";
 import Technology from "@/components/Technology";
+import Applications from "@/components/Applications";
 import Hero from "@/components/Hero";
 import Pricing from "@/components/Pricing";
 import Testimonials from "@/components/Testimonials";
@@ -20,6 +21,7 @@ export default function Home() {
       <Hero />
       <Technology />
       <Video />
+      <Applications />
       <Brands />
       <AboutSectionOne />
       <AboutSectionTwo />
