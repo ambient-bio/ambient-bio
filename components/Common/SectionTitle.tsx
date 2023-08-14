@@ -16,7 +16,7 @@ const SectionTitle = ({
         data-wow-delay=".1s"
         style={{ maxWidth: width, marginBottom: mb }}
       >
-        <h2 className="text-5xl font-bold !leading-tight text-current sm:text-4xl md:text-[45px]">
+        <h2 className="font-bold !leading-tight text-current text-3xl md:text-4xl">
           {title}
         </h2>
       </div>
