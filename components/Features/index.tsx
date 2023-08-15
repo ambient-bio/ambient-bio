@@ -6,7 +6,7 @@ const FeatureTemplate = ({ title, featureData }: { title: string, featureData: F
   return (
     <>
       <section
-        id="features"
+        id={title}
         className="bg-offWhite py-16 md:py-20 lg:py-28"
       >
         <div className="container">
