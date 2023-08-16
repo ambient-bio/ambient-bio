@@ -10,6 +10,14 @@
   }
 }
 
+.gradient-colors {
+  --gradient-color-1: #0249e5;  
+  --gradient-color-2: #f6f9fc;  
+  --gradient-color-3: #0b2540;  
+  --gradient-color-4: #13bcbc; 
+  --gradient-speed: 0.000006;
+}
+
 @layer components {
   input[type="checkbox"]:checked ~ label span svg {
     @apply inline-flex;

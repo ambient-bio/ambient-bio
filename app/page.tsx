@@ -5,6 +5,7 @@ import Brands from "@/components/Brands";
 import ScrollUp from "@/components/Common/ScrollUp";
 import Contact from "@/components/Contact";
 import Technology from "@/components/Technology";
+import Landing from "@/components/Landing";
 import Audience from "@/components/Audience";
 import Applications from "@/components/Applications";
 import Hero from "@/components/Hero";
@@ -19,7 +20,7 @@ export default function Home() {
   return (
     <>
       <ScrollUp />
-      <Hero />
+      <Landing />
       <Technology />
       <Audience />
       <Applications />
