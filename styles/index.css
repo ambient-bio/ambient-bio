@@ -12,10 +12,9 @@
 
 .gradient-colors {
   --gradient-color-1: #0249e5;  
-  --gradient-color-2: #f6f9fc;  
-  --gradient-color-3: #0b2540;  
-  --gradient-color-4: #13bcbc; 
-  --gradient-speed: 0.000006;
+  --gradient-color-2: #9966FF;
+  --gradient-color-3: #13bcbc;
+  --gradient-speed: 0.000007;
 }
 
 @layer components {

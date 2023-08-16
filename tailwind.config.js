@@ -17,6 +17,7 @@ module.exports = {
       ambientBlue: "#0249E5",
       ambientGreen: "#13BCBC",
       ambientPurple: "#9966FF",
+      red: "#ff0000",
       // current: "#0B2540",
       // transparent: "transparent",
       // white: "#FFFFFF",
