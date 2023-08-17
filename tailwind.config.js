@@ -12,7 +12,7 @@ module.exports = {
       padding: "1rem",
     },
     colors: {
-      darkBlue: "#0B2540",
+      darkBlue: "#0B2540", 
       offWhite: "#F6F9FC",
       ambientBlue: "#0249E5",
       ambientGreen: "#13BCBC",
