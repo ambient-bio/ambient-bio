@@ -13,7 +13,7 @@ module.exports = {
         green: "#13bcbc", 
       },
       fontFamily: {
-        sans: ['Inter', "system-ui", "-apple-system"],
+        sans: ['Inter Variable', "system-ui", "-apple-system"],
       },
     },
 

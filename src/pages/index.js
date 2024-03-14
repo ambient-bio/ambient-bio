@@ -10,8 +10,8 @@ export default function Home() {
       <GradientCanvas id="canvas"/>
       <Logo className="absolute w-[300px] md:w-[400px] lg:w-[600px] md:pb-2 opacity-100" />
       <Logo className="w-[300px] md:w-[400px] lg:w-[600px] md:pb-2" />
-      <div className="text-3xl lg:text-6xl font-[200]"> 
-        We are a team of medical AI experts on a mission to better quantify human health.
+      <div className="text-3xl lg:text-6xl font-[100]"> 
+        We are a team of medical AI experts on a mission to improve patient outcomes.
       </div> 
       <div className="md:text-base lg:text-xl font-[300] pt-1 md:pt-2 lg:pt-5"> 
         info@ambient.bio
