@@ -1,5 +1,8 @@
-v1 branch is gatsby -> deployed on netlify with publish directory "public"
-main branch is netlify (2nd version) -> not dpeloyed.
+- v1 branch is gatsby -> deployed on netlify with publish directory "public"
+
+- v2 branch is gatsby full lava -> deployed on netlify with publish directory "public"
+
+- main branch is netlify (2nd version) -> not deployed.
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">

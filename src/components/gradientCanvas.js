@@ -6,7 +6,7 @@ const GradientCanvas = ({id, position}) => {
     <div>
       <Script src="/minigl.js" strategy={ScriptStrategy.idle}/>
       <div className="flex w-full h-full overflow-hidden bg-red-400 z-1">
-        <canvas className="absolute gradient-colors z-2 w-[300px] md:w-[400px] lg:w-[600px] h-20 md:h-28 lg:h-40 pb-[1px] pr-[1px]" id={id} />
+        <canvas className="absolute gradient-colors h-full z-2" id={id} />
       </div>
     </div>
   )

@@ -23,6 +23,12 @@ module.exports = {
       options: {
         icon: 'static/favicon.png',
       },
+		},
+		{
+      resolve: "gatsby-plugin-mailchimp",
+      options: {
+        endpoint: "https://bio.us17.list-manage.com/subscribe/post?u=48895cc86a5e39a05280b8390&amp;id=95154ea443&amp;f_id=00f9a2e0f0"
+      },
     },
   ],
 }
