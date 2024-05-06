@@ -8,6 +8,10 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
+	siteMetadata: {
+    title: `Ambient`,
+    siteUrl: `https://www.ambient.bio`,
+  },
   plugins: [
     'gatsby-plugin-postcss',
     {
