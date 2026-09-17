@@ -15,7 +15,7 @@ export default function Home() {
 			<SquircleLogo className="absolute w-[15px] h-[15px] md:w-[25px] md:h-[25px] bottom-0 mb-4 ml-4 md:mb-8 md:ml-8 opacity-100" />
 			<div className="w-3/4 lg:w-1/2 mx-auto text-center text-verylightblue z-10">
 				<div className="text-4xl md:text-5xl lg:text-6xl font-[600] mt-[150px] md:mt-[250px] "> 
-					Transforming cancer care with artificial intelligence.
+					Transforming cancer care with AI.
 				</div> 
 				<div className="text-md font-[300] mt-16"> 
 					Coming soon.
