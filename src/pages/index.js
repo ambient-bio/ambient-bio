@@ -18,7 +18,7 @@ export default function Home() {
 					Transforming cancer care with AI.
 				</div> 
 				<div className="text-md font-[300] mt-16"> 
-					Coming soon.
+		
 				</div> 
 				<div className="mt-3"> 
 							<SubscribtionForm />
